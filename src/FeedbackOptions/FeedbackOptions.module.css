@@ -1,0 +1,12 @@
+.feedback__btn {
+    margin-right: 20px;
+    min-width: 100px;
+    padding: 5px 0px;
+    border: none;
+    outline: none;
+    background-color: rgb(241, 192, 119);
+    font-size: 16px;
+    font-weight: 700;
+    border-radius: 4px;
+    box-shadow: 2px 2px 5px rgb(235, 125, 125);
+};
